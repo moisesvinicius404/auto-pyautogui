@@ -1,1 +1,1 @@
-# auto-pyautogui
+# Automação com pyautogui
